@@ -9,7 +9,8 @@
         <h6>Nama: Dicky Permana Putra</h6><br>
         <h6>Ketua Kelas</h6><br>
         <h6>NIM : 23110029</h6><br>
-        <h6>Brilian Ricky</h6>
+        <h6>Brilian Ricky</h6><br>
+        <h6>Tahun 2025</h6>
         <a href="index.php">Kembali</a>
     </body>
 </html>

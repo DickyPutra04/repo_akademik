@@ -11,6 +11,7 @@
         <h6>NIM : 23110029</h6><br>
         <h6>Brilian Ricky</h6><br>
         <h6>Tahun 2025</h6>
+        <h6>Amik Mahaputra Riau</h6>
         <a href="index.php">Kembali</a>
     </body>
 </html>
